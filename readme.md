@@ -1,6 +1,6 @@
 # Test tasks fot Blockchain School
 
-### installation requirements: Python3
+### Requirements: Python3
 
 ## Task 1:
 Твій комп'ютер потрапив до рук твого колеги, який вирішив пожартувати та скопіював багато файлів до випадкових
