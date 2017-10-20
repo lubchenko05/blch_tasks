@@ -1,0 +1,6 @@
+venv
+*.pyc
+staticfiles
+.env
+.idea/
+local_settings.py
